@@ -20,8 +20,7 @@ archivePrefix = {arXiv},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
-Since, the exported webgme project is quite large, you can download it from [here](https://vanderbilt365-my.sharepoint.com/:u:/g/personal/umesh_timalsina_vanderbilt_edu/EZ0ME7hGyUlHqu6n1YmqrIsBdRmfQaKGB1yE7rpHAw5M-w?e=azaP34) and run the pipelines.
-Alternatively, the script above downloads the file and puts it in the data directory. There are three pipelines as shown in the screen-shot below:
+Since, the exported webgme project is quite large, you can download it from [here](https://vanderbilt365-my.sharepoint.com/:u:/g/personal/umesh_timalsina_vanderbilt_edu/EZ0ME7hGyUlHqu6n1YmqrIsBdRmfQaKGB1yE7rpHAw5M-w?e=azaP34) and run the pipelines. There are three pipelines as shown in the screen-shot below:
 
 ![pipelines](../screenshots/redshift-pipelines.png)
 
